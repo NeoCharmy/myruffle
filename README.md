@@ -1,3 +1,3 @@
 so, yeah
 github is my host now
-for ruffle
+for some flash games via ruffle
